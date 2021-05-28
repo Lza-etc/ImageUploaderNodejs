@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 6%;
+    margin-left: 10%;
+}
+
+.font-poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font-size-09{
+    font-size: .9em;
+}
+
+input:focus{
+    box-shadow: none !important;
+    outline: none !important;
+}
+.submitbtn{
+    margin-left: 2%;
+    margin-top: 3%;
+    padding: 1.5%;
+}
+
+.heading{
+    font-size: 2rem;
+    font-weight: 700;
+    margin-left: 27%;
+}
+.first2{
+    margin-top: 10%;
+    margin-left: 20%;
+    margin-top: 3%;
+    max-width: 80%;
+}
+.line{
+    margin-top: 2%;
+}
